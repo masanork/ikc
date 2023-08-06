@@ -23,9 +23,10 @@
 謝辞
 ---
 
-異体字データベースには2023年8月5日時点の史料編纂所データベース異体字同定一覧を利用しています。
+異体字データベースには2023年8月5日時点の史料編纂所データベース異体字同定一覧とSKKの異体字辞書を利用しています。
 <https://wwwap.hi.u-tokyo.ac.jp/ships/itaiji_list.jsp>
-また個人的に気がついた範囲で氏名の異体字を追加しています。（吉,𠮷、羽,羽など）
+<https://github.com/skk-dev/dict/blob/master/SKK-JISYO.itaiji>
+また個人的に気がついた範囲で、氏名の異体字で、JIS X 0212範囲外のため、これらの辞書に含まれていない文字を追加しています。（吉,𠮷、羽,羽など）
 
 本プログラム等の作成にはChatGPT Code InterpreterとGitHub Copilotを利用しています。具体的なプロンプトは Prompt.md を参照してください。
 
